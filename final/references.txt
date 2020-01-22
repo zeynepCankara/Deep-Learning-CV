@@ -1,0 +1,5 @@
+Base Paper for CNN model
+https://arxiv.org/pdf/1806.03589.pdf
+
+Github Repo for base CNN model
+https://github.com/avalonstrel/GatedConvolution_pytorch

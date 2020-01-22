@@ -1,0 +1,15 @@
+Data_Challenge2
+Data_Challenge2.zip
+*.jpg
+*.jpeg
+*.png
+*.pyc
+beto/GatedConvolution_pytorch/InpaintBenchmark
+beto/GatedConvolution_pytorch/logs
+beto/GatedConvolution_pytorch/logs_old
+beto/GatedConvolution_pytorch/model_logs
+beto/GatedConvolution_pytorch/results
+beto/GatedConvolution_pytorch/TrainImgs
+beto/GatedConvolution_pytorch/srgb_adobe
+csa/checkpoints
+csa/pred
