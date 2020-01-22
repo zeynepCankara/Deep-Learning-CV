@@ -20,7 +20,7 @@ The course introduces interesting deep learning approaches to various computer v
     - `Topics`: Recurrent Neural Networks architectures, video pre-processing.
 
 
-## Final Project (Chosen the Best Project):
+## Final Project (Chosen as the Best Project):
 
 - `Dunhuang Image Restoration`:
 - The mural paintings from Dunhuang caves suffering from corrosion and aging. 
