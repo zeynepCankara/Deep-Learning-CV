@@ -14,10 +14,10 @@ The course introduces interesting deep learning approaches to various computer v
     - `Topics`: Object recognition, CNNs in PyTorch, Image Segmentation, Fine-tuning the CNN models.
 
 - `Assignment 3`: Implementing DANN, ACGAN, GAN for Image Generation, Feature Disentanglement and Domain Adaptation.
-    - `Topics`: Advesarial Neural Networks, Feature Disentanglement, Domain Adaptation.
+    - `Topics`: Advesarial Neural Networks, Feature Disentanglement, Domain Adaptation with Generative Advesarial Networks.
 
-- `Assignment 4`: Implementing a Music Album Class
-    - `Topics`: Dynamically allocated arrays, overloading operators, copy constructors, destructors, constructors, preventing memory leaks, Object-oriented C++ programming.
+- `Assignment 4`: Trimmed action recognition and temporal action segmentation in full-length videos.
+    - `Topics`: Recurrent Neural Networks architectures, video pre-processing.
 
 
 ## Final Project:
